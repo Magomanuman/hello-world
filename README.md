@@ -1,2 +1,4 @@
-# hello-world
-hola munod !! estes es mi primer repositorio de github
+# hello-worl
+hola mundo !! este es mi primer repositorio...
+
+Yo soy Mago un viejo joven que desea aprender a programar
