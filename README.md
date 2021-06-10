@@ -1,3 +1,3 @@
-# hello-world
-hola munod !! estes es mi primer repositorio de github
-yo soy MAGO, Un viejo joven que desea aprender programación...
+# hello-worl
+hola munodo !! este es mi primer repositorio en github
+Yo soy Mago, un viejo joven que desea aprender a programar
