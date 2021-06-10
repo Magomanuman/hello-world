@@ -1,2 +1,3 @@
 # hello-world
 hola munod !! estes es mi primer repositorio de github
+yo soy MAGO, Un viejo joven que desea aprender programación...
